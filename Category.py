@@ -181,17 +181,6 @@ class Category:
 
 
 
-                #iterate through dictionary and subtract the transfer amount
-                #iterate through dictionary a second time and add transfer amount to "To" category
-
-
-
-
-
-                self.budgetOperations()
-
-
-
 def init():
     cat = Category()
 
